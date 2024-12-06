@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfProcess", "PdfProcess\PdfProcess.csproj", "{3FCC8681-6261-46B8-89F0-8723E26B9066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{B197CB3F-A4DA-4D67-A2D5-D586149A4588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcces", "DataAcces\DataAcces.csproj", "{AACFAA7A-4E95-439B-A69B-9C7B897A1660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCC8681-6261-46B8-89F0-8723E26B9066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCC8681-6261-46B8-89F0-8723E26B9066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCC8681-6261-46B8-89F0-8723E26B9066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCC8681-6261-46B8-89F0-8723E26B9066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B197CB3F-A4DA-4D67-A2D5-D586149A4588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B197CB3F-A4DA-4D67-A2D5-D586149A4588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B197CB3F-A4DA-4D67-A2D5-D586149A4588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B197CB3F-A4DA-4D67-A2D5-D586149A4588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACFAA7A-4E95-439B-A69B-9C7B897A1660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACFAA7A-4E95-439B-A69B-9C7B897A1660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACFAA7A-4E95-439B-A69B-9C7B897A1660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACFAA7A-4E95-439B-A69B-9C7B897A1660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
